@@ -1,37 +1,45 @@
 <h1>DevMatch</h1>
-A full-stack application for a fictional startup company app called DevMatch. A membership-based networking platform for students, developers, entrepreneurs, and investors.
-
-From <a href="upskillcourses.com">Upskill Courses</a>
+<p>A full-stack application for a fictional startup company app called DevMatch. A membership-based networking platform for students, developers, entrepreneurs, and investors.
+<br /><br />
+From <a href="//upskillcourses.com">Upskill Courses</a>
 
 <h1>Features</h1>
-
-A user interface<br />
-Login/logout system with authentication<br />
-Email notifications<br />
-Subscription payments for premium services<br />
-
+<ul>
+  <li>A user interface</li>
+  <li>Login/logout system with authentication</li>
+  <li>Email notifications</li>
+  <li>Subscription payments for premium services</li>
+</ul>
 <h1>Technologies Used</h1>
 
 <strong>Languages:</strong><br />
-HTML<br />
-CSS<br />
-JavaScript<br />
-Ruby on Rails<br />
-PostgreSQL<br />
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Ruby on Rails</li>
+  <li>PostgreSQL</li>
+</ul>
 
 <strong>Frameworks/Libaries:</strong><br />
-BootStrap<br />
-SCSS<br />
-jQuery<br />
+<ul>
+  <li>BootStrap</li>
+  <li>SCSS</li>
+  <li>jQuery</li>
+</ul>
 
 <strong>Gems/APIs:</strong><br />
-Figaro<br />
-Devise (user profile setup)<br />
-PaperClip/ImageMagick (image upload handler)<br />
-Stripe (subscription service)<br />
-MailGun (email sender)<br />
-Hirb (database table formatting)<br />
+<ul>
+  <li>Figaro</li>
+  <li>Devise (user profile setup)</li>
+  <li>PaperClip/ImageMagick (image upload handler)</li>
+  <li>Stripe (subscription service)</li>
+  <li>MailGun (email sender)</li>
+  <li>Hirb (database table formatting)</li>
+</ul>
 
 <strong>Tools:</strong><br />
-Heroku (deployment)<br />
-Cloud9 IDE<br />
+<ul>
+  <li>Heroku (deployment)</li>
+  <li>Cloud9 IDE</li>
+</ul>
