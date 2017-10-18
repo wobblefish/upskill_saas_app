@@ -1,5 +1,3 @@
-# README
-
 <h1>DevMatch</h1>
 A full-stack application for a fictional startup company app called DevMatch. A membership-based networking platform for students, developers, entrepreneurs, and investors.
 
