@@ -21,17 +21,21 @@
 
 // Typography Styles
 h1, h2, h3 {
-		font-family: 'Roboto Condensed', sans-serif;
-		/*font-family: 'Open Sans', sans-serif;*/
+	font-family: 'Roboto Condensed', sans-serif;
+	/*font-family: 'Open Sans', sans-serif;*/
 }
 
 // Background Gradient
 .navbar, .home-callout {
-		// Gradient by @_ighosh at uiGradients.com
-		background: #22c1c3;  /* fallback for old browsers */
-		background: -webkit-linear-gradient(to right, #fdbb2d, #22c1c3);  /* Chrome 10-25, Safari 5.1-6 */
-		background: linear-gradient(to right, #fdbb2d, #22c1c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	// Gradient by @_ighosh at uiGradients.com
+	// background: #22c1c3;  /* fallback for old browsers */
+	// background: -webkit-linear-gradient(to right, #fdbb2d, #22c1c3);  /* Chrome 10-25, Safari 5.1-6 */
+	// background: linear-gradient(to right, #fdbb2d, #22c1c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #24557f;
+  background: -webkit-linear-gradient(to right, #24557f, #00BBF5);
+  background: linear-gradient(to right, #24557f, #00BBF5);
 }
+	
 
 // Navbar Styles
 .navbar {
@@ -83,4 +87,9 @@ h1, h2, h3 {
 
 .home-signup-links {
 	margin-top: 30px;
+}
+
+// Prevent h4 text from breaking height / button alignment
+.eq-height h4 {
+	min-height: 2.2em;
 }
